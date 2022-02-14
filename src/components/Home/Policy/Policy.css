@@ -1,0 +1,18 @@
+.policy-border{
+    border: 1.5px dashed #909090;
+    font-family: 'Poppins', sans-serif;
+}
+.policy .row{
+    width: 90%;
+    margin: 0 auto;
+}
+.policy-border h3{
+    font-size: 16px;
+    font-weight: 600;
+    color: #000;
+}
+.policy-border span{
+    font-size: 13px;
+    font-weight: 400;
+    color:#909090;
+}

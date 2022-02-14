@@ -1,0 +1,26 @@
+.footer-area{
+    background-color: #00305B;
+    font-family: 'Roboto', sans-serif;
+    font-size: 13px;
+}
+.footer-area h6{
+    font-family: 'Poppins', sans-serif;
+}
+.footer-area a{
+    text-decoration: none;
+}
+.footer-area a i{
+    font-size: 20px;
+}
+.footer-area a:hover{
+    color: #8CC32E !important;
+}
+.social-link{
+    margin-left: -15px;
+}
+
+@media only screen and(max-width:768px) {
+    .social-link{
+        margin-left: 0;
+    }
+}

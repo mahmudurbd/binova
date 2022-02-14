@@ -1,0 +1,12 @@
+.add-product{
+    font-family: 'Poppins', sans-serif;
+}
+.regular-btn{
+    padding: 10px 25px;
+    background-color: #8CC32E;
+    color: #fff;
+}
+.regular-btn:hover{
+    background-color: #00305B;
+    color: #fff;
+}

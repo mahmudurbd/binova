@@ -1,0 +1,20 @@
+.features-bg{
+    background-image: radial-gradient( circle 610px at 5.2% 51.6%,  rgba(5,8,114,1) 0%, rgba(7,3,53,1) 97.5% );
+    color: #fff;
+}
+.features-bg h1{
+    color: #8CC32E;
+    font-family: 'Poppins', sans-serif;
+ 
+}
+.features-bg p{
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 55px;
+}
+.features-btn{
+    padding: 15px 35px;
+    background-color: #8CC32E;
+    color:#fff;
+    text-decoration: none;
+    border-radius: 4px;
+}

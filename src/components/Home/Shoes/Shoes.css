@@ -1,0 +1,57 @@
+.shoes{
+    font-family: 'Poppins', sans-serif;
+}
+.row{
+    width: 85%;
+    margin:auto;
+}
+.heading-left{
+    text-align: left;
+}
+.top{
+    font-size: 24px;
+    color: #cdcdcd;
+    font-weight: 800;
+}
+.bottom{
+    font-size: 50px;
+    color: #222222;
+    font-weight: 800;
+}
+.heading-right{
+    text-align: left;
+}
+.heading-right span{
+    font-weight: 400;
+    font-size: 13px;
+    color: #666666;
+    font-family: 'Roboto', sans-serif; 
+}
+.shoes-text{
+    color: #666;
+    font-size: 12px;
+}
+.shoes-text i{
+    font-size: 9px;
+}
+.price{
+    font-size: 13px;
+    text-align: left;
+    font-weight: 600;
+    color: #222;
+}
+
+.shoe-btn{
+    padding: 10px 20px;
+    background-color: #8CC32E;
+    text-decoration: none;
+    color: #fff;
+}
+
+
+@media only screen and (max-width:400px){
+    .row{
+        width: 98%;
+        margin:auto;
+    }
+}

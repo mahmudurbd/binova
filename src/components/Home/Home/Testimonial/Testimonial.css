@@ -1,0 +1,19 @@
+.testimonial{
+    font-family: 'Poppins', sans-serif;
+    background-color: #E3F2FD;
+}
+.testimonial h1{
+    font-weight: 700;
+    font-size: 50px;
+}
+.testy{
+    width: 85%;
+    margin: 0 auto;
+}
+.wrapper{
+    border: 3px dotted #8CC32E;
+}
+.review{
+    color:#666;
+    font-size: 14px;
+}

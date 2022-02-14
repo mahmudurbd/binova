@@ -1,0 +1,17 @@
+.register{
+    font-family: 'Poppins', sans-serif;
+    background-color: #8CC32E;
+}
+.register .register-form{
+    background-color: gainsboro;
+}
+.register-btn{
+    padding: 10px 30px;
+    background-color: #00305B;
+    border:none;
+    border-radius: 5px;
+    color: #fff;
+}
+.register-btn:hover{
+    background-color: #8CC32E;
+}

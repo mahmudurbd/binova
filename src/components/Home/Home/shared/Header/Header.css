@@ -1,0 +1,30 @@
+nav {
+    font-family: 'Poppins', sans-serif;
+}
+nav li .active-color{
+    color: #8CC32E !important;
+}
+nav li a{
+    color: #222222 !important;
+    text-transform: uppercase;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+}
+nav li a:hover{
+    color: #8CC32E !important;
+}
+.dropdown-menu{
+    background-color: #E3F2FD;
+    width: 5%;
+    margin: 0 auto;
+}
+.logo{
+    background-color: #000000;
+}
+.test-btn{
+    background-color: red;
+}
+.test{
+    background-color: red;
+}
