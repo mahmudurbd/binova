@@ -6,7 +6,7 @@
 <br>
 
 ## About This Project
-- It is a Branded Watches Niche website, which serves branded sporting shoes.
+- It is a Branded Shoes Niche website, which serves branded sporting shoes.
 - Users and Admin can sign up and log in to this website using google and email & password. Anyone
 cannot go to some pages without login, which is developed by React Router.
 - There is a dashboard for the User and Admin. Users can place orders, see their order list. Admin
